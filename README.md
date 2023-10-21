@@ -45,7 +45,7 @@ You can control the snake's movement using either the classic "W," "A," "S," and
 
 4. When the snake's head touches an apple, it "eats" it, and its length increases.
 
-5.As the snake grows, it becomes more challenging to navigate without running into walls or itself.
+5. As the snake grows, it becomes more challenging to navigate without running into walls or itself.
 
 6. The game continues until one of the following conditions is met:
    1. The snake collides with the game boundaries or walls.
