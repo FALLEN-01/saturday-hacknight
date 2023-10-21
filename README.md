@@ -1,5 +1,6 @@
 
-![Novel Frame](https://github.com/TH-Activities/saturday-hack-night-template/assets/90635335/4c26e8ac-2dd1-4d75-8e1a-9f7585e3b381)
+<img width="536" alt="Screenshot 2023-10-21 193225" src="https://github.com/FALLEN-01/saturday-hacknight/assets/105587250/92f69704-8157-4805-af8e-014fc401b042">
+
 
 # Slithering Serpent: A Classic Snake Game
 ## Description:
