@@ -1,6 +1,7 @@
+# Slithering Serpent: A Classic Snake Game
+
 
 <img width="536" alt="Screenshot 2023-10-21 193225" src="https://github.com/FALLEN-01/saturday-hacknight/assets/105587250/92f69704-8157-4805-af8e-014fc401b042">
-
 
 # Slithering Serpent: A Classic Snake Game
 ## Description:
