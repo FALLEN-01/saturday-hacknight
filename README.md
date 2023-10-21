@@ -3,7 +3,6 @@
 
 <img width="536" alt="Screenshot 2023-10-21 193225" src="https://github.com/FALLEN-01/saturday-hacknight/assets/105587250/92f69704-8157-4805-af8e-014fc401b042">
 
-# Slithering Serpent: A Classic Snake Game
 ## Description:
 "Slithering Serpent" is a timeless classic snake game that will take you on a nostalgic journey back to the era of retro gaming. This addictive and entertaining game allows players to control a hungry snake as it navigates through a digital world, growing in size with every tasty morsel it consumes. The game is designed for players of all ages and skill levels, making it a perfect choice for quick, casual gaming sessions or a longer, more intense gaming experience.
 
